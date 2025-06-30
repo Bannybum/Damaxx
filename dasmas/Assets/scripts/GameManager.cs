@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine.SceneManagement;
 
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI turnText;
     public GameObject painelVitoria;
