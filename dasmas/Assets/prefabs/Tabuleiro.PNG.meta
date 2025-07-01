@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6352ca5e651d0cc469d42c77275c3670
+guid: 0a248a2c3013ff34293c07e1dd9b89c0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1120358434535312435
-    second: tabu_0
+      213: 2590539726547155549
+    second: Tabuleiro_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 512
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tabu_0
+      name: Tabuleiro_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 400
-        height: 385
+        x: 64
+        y: 64
+        width: 500
+        height: 500
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc3f86090ffa370f0800000000000000
-      internalID: -1120358434535312435
+      spriteID: 274ae74e2803db04081e092ded9f2982
+      internalID: 2590539726547155549
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 89e87c4e428a3604787b86c50e9ef423
     internalID: 0
     vertices: []
     indices: 
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tabuleiro_0: 2590539726547155549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
