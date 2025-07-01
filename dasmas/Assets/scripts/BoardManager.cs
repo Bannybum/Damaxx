@@ -198,5 +198,10 @@ public class BoardManager : MonoBehaviour
             }
         }
     }
+
+    public Piece GetPieceAt(int x, int y)
+    {
+        return pieces[x, y];
+    }
 #endif
 }
